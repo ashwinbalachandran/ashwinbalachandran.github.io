@@ -1,0 +1,17 @@
+body {
+    background-color: #e0e2e4;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 20px;
+    text-align: center;
+  }
+  div {
+      column-count: 2;
+  }
+  .center {
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+  }
